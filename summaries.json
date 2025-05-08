@@ -1,0 +1,14 @@
+[
+    {
+        "document": "sample_legal_doc.pdf",
+        "summary": "This report presents the internship experience on \"Python  with Machine Learning\" at INTS. The focus was on understanding core ML algorithms and implementing a project titled Student Performance Prediction. The internship provided an excellent platform to bridge academic knowledge with industrial applications. The report includes theoretical background, tools used, methodologies, and results."
+    },
+    {
+        "document": "legal_sample_2.pdf",
+        "summary": "Non -Disclosure Agreement (NDA) is entered into as of April 8, 2025, by and between Alpha Technologies Pvt. Ltd. and John Doe. The Disclosing Party intends to disclose certain confidential and proprietary information to the Receiving Party to evaluate a potential business relatio nship."
+    },
+    {
+        "document": "Analysis_of_Big_Data_in_Cloud_Computing_Technologies.pdf",
+        "summary": "Error generating summary: 401 Client Error: Unauthorized for url: https://router.huggingface.co/hf-inference/models/facebook/bart-large-cnn (Request ID: Root=1-681c5674-5954b4107661c4f7570bd673;9862d500-500b-4426-bd2c-fc60f68f83dc)\n\nInvalid credentials in Authorization header"
+    }
+]
