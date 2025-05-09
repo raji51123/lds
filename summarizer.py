@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 from PyPDF2 import PdfReader
 
 # Your Hugging Face token (keep this secure in production)
-hf_token = "HF_TOKEN"
+hf_token = os.getenv("HF_TOKEN")
 
 # Initialize Hugging Face client
 client = InferenceClient(token=hf_token)
@@ -55,7 +55,7 @@ from PyPDF2 import PdfReader
 import time
 
 # Your Hugging Face token (keep this secure in production)
-hf_token = "HF_TOKEN"
+hf_token = os.getenv("HF_TOKEN")
 
 # Initialize Hugging Face client
 client = InferenceClient(token=hf_token)

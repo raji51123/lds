@@ -78,5 +78,9 @@
     {
         "document": "legal_sample_2.pdf",
         "summary": "Error generating summary: 401 Client Error: Unauthorized for url: https://huggingface.co/api/models/facebook/bart-large-cnn?expand=inferenceProviderMapping (Request ID: Root=1-681ce40d-32a32ab20c122f2c7b9cf265;ee11e8d2-521b-4f1d-8c71-de6c57404951)\n\nInvalid credentials in Authorization header"
+    },
+    {
+        "document": "legal_sample_2.pdf",
+        "summary": "Non -Disclosure Agreement (NDA) is entered into as of April 8, 2025. The Disclosing Party intends to disclose certain confidential and proprietary information to the Receiving Party to evaluate a potential business relatio nship. The Agreement shall remain in effect for a period of two (2) years from the date of disclosure of any Confidential Information."
     }
 ]
