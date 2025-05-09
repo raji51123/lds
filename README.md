@@ -12,11 +12,7 @@ This project involves the creation of a tool to summarize legal documents using 
 
 1. Clone the repository or download the project files.
 2. Install Python 3.8+.
-3. Install the necessary Python libraries using `requirements.txt` (explained below).
+3. Install the necessary Python libraries using `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
-```
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
